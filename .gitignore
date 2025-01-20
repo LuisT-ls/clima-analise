@@ -1,0 +1,31 @@
+# Diretórios de ambiente virtual
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Diretórios do cache de pacotes
+*.egg-info/
+.eggs/
+
+# Arquivos de log
+*.log
+
+# Diretórios de build
+build/
+dist/
+*.egg
+
+# Arquivos temporários do sistema operacional
+*.swp
+*.bak
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
